@@ -38,7 +38,3 @@ The system should include mechanisms to handle and correct errors in the generat
 - **Contextual Understanding:** Improving the model's ability to understand context and generate more complex SQL queries involving joins, subqueries, and aggregations.
 - **Natural Language Feedback:** Allowing users to provide natural language feedback to iteratively improve query accuracy.
 - **User Interface:** Developing a user-friendly interface for non-technical users to interact with the system without needing to access the notebook directly.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
